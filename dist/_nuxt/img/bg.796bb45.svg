@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="905.898" height="374.499" viewBox="0 0 905.898 374.499">
+  <g id="그룹_219" data-name="그룹 219" transform="translate(-377.917 3180.5)" opacity="0.8">
+    <g id="그룹_218" data-name="그룹 218" transform="translate(377.917 -3180)">
+      <line id="선_86" data-name="선 86" x2="35.11" transform="translate(717.667)" fill="none" stroke="#c7c7ed" stroke-width="1"/>
+      <rect id="사각형_121" data-name="사각형 121" width="15.89" height="15.89" rx="5" transform="translate(890.009 310.069)" fill="#eeeef8"/>
+      <rect id="사각형_137" data-name="사각형 137" width="11.532" height="11.532" rx="3" transform="translate(135.25 311.527)" fill="#eeeef8"/>
+      <rect id="사각형_138" data-name="사각형 138" width="11.532" height="11.532" rx="3" transform="translate(537.904 18.146)" fill="#eeeef8"/>
+      <g id="타원_105" data-name="타원 105" transform="translate(11.597 266.039)" fill="#fff" stroke="#7e8ad6" stroke-width="1">
+        <circle cx="2.899" cy="2.899" r="2.899" stroke="none"/>
+        <circle cx="2.899" cy="2.899" r="2.399" fill="none"/>
+      </g>
+      <g id="타원_107" data-name="타원 107" transform="translate(191.468 74.746)" fill="#fff" stroke="#7e8ad6" stroke-width="1">
+        <circle cx="4.832" cy="4.832" r="4.832" stroke="none"/>
+        <circle cx="4.832" cy="4.832" r="4.332" fill="none"/>
+      </g>
+      <g id="타원_108" data-name="타원 108" transform="translate(263.546 23.912)" fill="#fff" stroke="#7e8ad6" stroke-width="1">
+        <circle cx="3.383" cy="3.383" r="3.383" stroke="none"/>
+        <circle cx="3.383" cy="3.383" r="2.883" fill="none"/>
+      </g>
+      <g id="타원_109" data-name="타원 109" transform="translate(748.074 62.975)" fill="#fff" stroke="#7e8ad6" stroke-width="1">
+        <circle cx="5.886" cy="5.886" r="5.886" stroke="none"/>
+        <circle cx="5.886" cy="5.886" r="5.386" fill="none"/>
+      </g>
+      <line id="선_102" data-name="선 102" x2="39.77" y2="0.111" transform="translate(591.737 365.503)" fill="none" stroke="#c7c7ed" stroke-width="2"/>
+      <line id="선_101" data-name="선 101" x2="6.765" transform="translate(652.45 365.503)" fill="none" stroke="#c7c7ed" stroke-width="2"/>
+      <line id="선_93" data-name="선 93" x2="37.536" transform="translate(752.717 14.342)" fill="none" stroke="#c7c7ed" stroke-width="1"/>
+      <path id="합치기_19" data-name="합치기 19" d="M2.417,5.8V4.349H.967a.967.967,0,0,1,0-1.933h1.45V.967a.966.966,0,1,1,1.932,0V2.416H5.8a.967.967,0,0,1,0,1.933H4.349V5.8a.966.966,0,0,1-1.932,0Z" transform="translate(357.295 367.235)" fill="#c6c7f5"/>
+      <g id="그룹_210" data-name="그룹 210" transform="translate(59.634 70.589)">
+        <rect id="사각형_122" data-name="사각형 122" width="20.695" height="5.913" rx="2.956" transform="translate(0 7.391)" fill="#c6c7f5"/>
+        <rect id="사각형_129" data-name="사각형 129" width="20.695" height="5.913" rx="2.956" transform="translate(13.305 0) rotate(90)" fill="#c6c7f5"/>
+      </g>
+      <g id="그룹_211" data-name="그룹 211" transform="translate(830.066 117.653)">
+        <rect id="사각형_122-2" data-name="사각형 122" width="20.695" height="5.913" rx="2.956" transform="translate(0 7.391)" fill="#c6c7f5"/>
+        <rect id="사각형_129-2" data-name="사각형 129" width="20.695" height="5.913" rx="2.956" transform="translate(13.305 0) rotate(90)" fill="#c6c7f5"/>
+      </g>
+      <rect id="사각형_5" data-name="사각형 5" width="5.799" height="5.799" rx="1" transform="translate(0 320.16)" fill="#eeeef8"/>
+    </g>
+  </g>
+</svg>
